@@ -1,0 +1,26 @@
+
+
+#form {
+	border-bottom: solid;
+	border-color: #e7e7e7;
+}
+
+#lista {
+	border-bottom: solid;
+	border-color: #e7e7e7;
+}
+
+#heading{
+	background-color: #1B7B98;
+	font-weight: bold;
+	color:#fff !important ;
+	 text-transform: uppercase;
+	 align-items: center;
+}
+
+.mypanel {
+    height: 200px;
+    overflow-y: auto;
+
+}
+
