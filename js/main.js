@@ -7,7 +7,7 @@ jQuery(function($) {'use strict',
 		},
 
 		function() {
-			// callback function
+			// callback function borrrar despues de probar
 		});
 
 
